@@ -1,0 +1,32 @@
+{
+  "name": "@telemetry-js/collector-function",
+  "version": "0.0.6",
+  "description": "Collect metric value from a function",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@telemetry-js/metric": "^0.1.2"
+  },
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "repository": "telemetry-js/collector-function",
+  "bugs": "https://github.com/telemetry-js/collector-function/issues",
+  "homepage": "https://github.com/telemetry-js/collector-function",
+  "keywords": [
+    "metrics",
+    "measurements",
+    "telemetry"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
