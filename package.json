@@ -1,6 +1,6 @@
 {
   "name": "@telemetry-js/collector-function",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Collect metric value from a function",
   "license": "MIT",
   "author": "Vincent Weevers",
